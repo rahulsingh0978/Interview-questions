@@ -23,7 +23,7 @@ public class LengthLongestIncreasingSub {
 		}
 		
 		for(int i=0;i<n;i++) {
-			if(T[maxIndex] < T[i]) {
+			if(arr[maxIndex] < arrr[i]) {
 				maxIndex = i;
 			}
 		}
@@ -42,7 +42,7 @@ public class LengthLongestIncreasingSub {
 	public static void main(String[] args) {
 		LengthLongestIncreasingSub obj = new LengthLongestIncreasingSub();
 		int[] array = {3,4,-1,0,6,2,3};
-		System.out.println("Leangth of max increasing subsequence is :"+obj.longestCommonSubsequence(array));
+		System.out.println(obj.longestCommonSubsequence(array));
 	}
 	
 }

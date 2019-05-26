@@ -873,3 +873,36 @@
 2019-05-26 16:10:11,449 [Worker-344: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahul.singh/eclipse-workspace/practice/com.practice/src/main/resources
 2019-05-26 16:10:11,450 [Worker-344: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-05-26 16:10:11,450 [Worker-344: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahul.singh/eclipse-workspace/practice/com.practice/src/test/resources
+2019-05-26 16:17:20,476 [Worker-344: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-26 16:17:20,476 [Worker-344: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahul.singh/eclipse-workspace/practice/com.practice/src/main/resources
+2019-05-26 16:17:20,477 [Worker-344: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-26 16:17:20,478 [Worker-344: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahul.singh/eclipse-workspace/practice/com.practice/src/test/resources
+2019-05-26 16:25:46,367 [Worker-9: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-05-26 16:25:47,905 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-26 16:25:47,906 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahul.singh/eclipse-workspace/practice/com.practice/src/main/resources
+2019-05-26 16:25:47,910 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-26 16:25:47,910 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahul.singh/eclipse-workspace/practice/com.practice/src/test/resources
+2019-05-26 19:45:32,414 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-26 19:45:32,415 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahul.singh/eclipse-workspace/practice/com.practice/src/main/resources
+2019-05-26 19:45:32,416 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-26 19:45:32,416 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahul.singh/eclipse-workspace/practice/com.practice/src/test/resources
+2019-05-26 19:47:13,628 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-26 19:47:13,628 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahul.singh/eclipse-workspace/practice/com.practice/src/main/resources
+2019-05-26 19:47:13,629 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-26 19:47:13,629 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahul.singh/eclipse-workspace/practice/com.practice/src/test/resources
+2019-05-26 19:50:08,949 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-26 19:50:08,950 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahul.singh/eclipse-workspace/practice/com.practice/src/main/resources
+2019-05-26 19:50:08,951 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-26 19:50:08,952 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahul.singh/eclipse-workspace/practice/com.practice/src/test/resources
+2019-05-26 19:50:11,975 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-26 19:50:11,975 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahul.singh/eclipse-workspace/practice/com.practice/src/main/resources
+2019-05-26 19:50:11,976 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-26 19:50:11,976 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahul.singh/eclipse-workspace/practice/com.practice/src/test/resources
+2019-05-26 19:51:55,099 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-26 19:51:55,100 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahul.singh/eclipse-workspace/practice/com.practice/src/main/resources
+2019-05-26 19:51:55,101 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-26 19:51:55,101 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahul.singh/eclipse-workspace/practice/com.practice/src/test/resources
+2019-05-26 19:52:39,308 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-26 19:52:39,309 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahul.singh/eclipse-workspace/practice/com.practice/src/main/resources
+2019-05-26 19:52:39,310 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-26 19:52:39,310 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rahul.singh/eclipse-workspace/practice/com.practice/src/test/resources
