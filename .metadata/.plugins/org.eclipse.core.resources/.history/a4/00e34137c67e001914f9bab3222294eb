@@ -1,0 +1,18 @@
+package rahul_practice.com.practice;
+
+
+public class BinaryTree {
+	Node root;
+	BinaryTree(){
+		root=null;
+	}
+	public static void main(String[] args) {
+		Node n = new Node(23,null,n1);
+		Node n1 = new Node(2, n2, null);
+		Node n2 = new Node(4, n3, null);
+		Node n3 = new Node(5, n4, n5);
+		Node n4 = new Node(21, null, null);
+		Node n5 = new Node(9, null, null);
+		
+	}
+}
