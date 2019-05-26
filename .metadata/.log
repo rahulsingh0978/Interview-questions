@@ -1893,3 +1893,6 @@ Binding(ALT+COMMAND+T,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,cocoa,system)
+
+!ENTRY org.eclipse.jdt.core 4 0 2019-05-26 16:11:11.439
+!MESSAGE Invalid ZIP archive: /Users/rahul.singh/.m2/repository/net/java/dev/jets3t/jets3t/0.9.4/jets3t-0.9.4.jar
